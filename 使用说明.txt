@@ -1,0 +1,3 @@
+将被校验的证件号输入到batch.txt中, 每一行一个证件号
+运行main.exe
+校验失败的结果在result.txt中
